@@ -13,3 +13,7 @@ Two versions were submitted (Score up to 98.8%).
 
 ![submission](https://raw.githubusercontent.com/Siboooo/imgForMD/master/DigitRecognizer/DR-CNN-sub.png) 
 
+## Dependencies
+* [NumPy](http://www.numpy.org)
+* [Pandas](http://pandas.pydata.org)
+* [TensorFlow](https://www.tensorflow.org)
