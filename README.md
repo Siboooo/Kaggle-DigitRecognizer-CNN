@@ -11,7 +11,7 @@ Training dataset and test dataset can be downloaded [here](https://www.kaggle.co
 ## Performance
 Two versions were submitted (Score up to 98.8%).
 
-![submission](https://raw.githubusercontent.com/Siboooo/imgForMD/master/DigitRecognizer/DR-CNN-sub.png)  
+![submission](https://raw.githubusercontent.com/Siboooo/imgForMD/master/DigitRecognizer/DR-CNN-sub.png)
 
 ## Dependencies
 * [NumPy](http://www.numpy.org)
