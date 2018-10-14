@@ -77,12 +77,13 @@ for i in range(total):
     result = result.append(temp, ignore_index=True)
 result.to_csv("DR-CNN-Cus-sub.csv", index=False)
 
-
+'''
 testDataN = pd.read_csv("mnist_test.csv")
 yTest = testDataN["7"]
 xTest = testDataN.drop(labels=["7"], axis=1)
 xTest = xTest/255.0
 del testDataN
+'''
 
 total = yTest.index.size
 correct = 0
